@@ -1,0 +1,84 @@
+header {
+	background-color: #000000;
+}
+
+
+.img-logo{
+	padding: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*Estilo Formulario*/
+.form-contact{
+    background: rgb(225, 229, 231);
+    width: 400px;
+    background-color: #24303c;
+    padding: 40px;
+    margin: auto;
+    margin-top: 1px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+    }
+    
+    .form-contact h4{
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    
+    .contact{
+        width: 100%;
+        background: #24303c;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        border: 1px solid #1f53c5;
+        font-family: 'calibri';
+        font-size: 18px;
+    }
+    
+    .form-contact p {
+        height: 40px;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .form-contact a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .form-contact a:hover {
+        color: white;
+        text-decoration: underline;
+    }
+    
+    .form-contact .botons{
+        width: 100%;
+        background: #1f53c5;
+        border: none;
+        padding: 12px;
+        color: white;
+        margin: 16px 0;
+        font-size: 16px;
+    }
+ 
+    h1 {
+        margin-top: 100px;
+        text-align:center;
+        font-size:60px;
+        font-family: 'Bree Serif', 'serif';
+        }
+
+        h1 {
+            font-size: 60px;
+            text-align: center;
+            color: #FFF;
+        }
+
+    h4{
+        text-align: center;
+    }
